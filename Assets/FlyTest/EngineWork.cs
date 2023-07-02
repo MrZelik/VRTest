@@ -13,6 +13,6 @@ public class EngineWork : MonoBehaviour
 
     public void SetPower(float value)
     {
-        rigidbody.AddForce(Vector3.up * value);
+        rigidbody.AddForce(transform.up * value);
     }
 }
