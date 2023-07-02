@@ -56,6 +56,7 @@ namespace UnityEngine.XR.Content.Interaction
         [Tooltip("Events to trigger when the joystick's y value changes")]
         ValueChangeEvent m_OnValueChangeY = new ValueChangeEvent();
 
+
         IXRSelectInteractor m_Interactor;
 
         /// <summary>
