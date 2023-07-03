@@ -1,7 +1,11 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &2670085057790986871
+=======
+--- !u!1 &3152108377958156929
+>>>>>>> remotes/origin/3d
 =======
 --- !u!1 &3152108377958156929
 >>>>>>> remotes/origin/3d
@@ -13,6 +17,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 2670085057790986856}
   - component: {fileID: 7440388649792030233}
   - component: {fileID: 2670085057790986860}
@@ -21,6 +26,8 @@ GameObject:
   m_Layer: 0
   m_Name: LeftHand (Smooth locomotion)
 =======
+=======
+>>>>>>> remotes/origin/3d
   - component: {fileID: 3152108377958156930}
   - component: {fileID: 3184616514224835328}
   - component: {fileID: 7644517007522777145}
@@ -33,6 +40,9 @@ GameObject:
   - component: {fileID: 7644517007522777139}
   m_Layer: 2
   m_Name: XR Origin
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40,7 +50,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &2670085057790986856
+=======
+--- !u!4 &3152108377958156930
+>>>>>>> remotes/origin/3d
 =======
 --- !u!4 &3152108377958156930
 >>>>>>> remotes/origin/3d
@@ -50,8 +64,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2670085057790986871}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_GameObject: {fileID: 3152108377958156929}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> remotes/origin/3d
 =======
   m_GameObject: {fileID: 3152108377958156929}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -60,6 +79,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 3607938928602536557}
   - {fileID: 6348930468434178326}
@@ -70,17 +90,23 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &7440388649792030233
 =======
+=======
+>>>>>>> remotes/origin/3d
   - {fileID: 4353273626868944895}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &3184616514224835328
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2670085057790986871}
   m_Enabled: 1
@@ -101,6 +127,8 @@ MonoBehaviour:
   m_SmoothTurnEnabled: 0
 --- !u!114 &2670085057790986860
 =======
+=======
+>>>>>>> remotes/origin/3d
   m_GameObject: {fileID: 3152108377958156929}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -113,12 +141,16 @@ MonoBehaviour:
   m_RequestedTrackingOriginMode: 0
   m_CameraYOffset: 1.36144
 --- !u!114 &7644517007522777145
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2670085057790986871}
   m_Enabled: 1
@@ -143,6 +175,8 @@ MonoBehaviour:
       m_ExpectedControlType: 
       m_Id: 8b170a9b-132e-486d-947e-6a244d4362ea
 =======
+=======
+>>>>>>> remotes/origin/3d
   m_GameObject: {fileID: 3152108377958156929}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -162,11 +196,15 @@ MonoBehaviour:
       m_Type: 0
       m_ExpectedControlType: 
       m_Id: a1d07c24-ca50-422a-a23f-685d9fabf63b
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Reference: {fileID: -2024308242397127297, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_RotationAction:
@@ -177,6 +215,8 @@ MonoBehaviour:
       m_ExpectedControlType: 
       m_Id: 080819c2-8547-4beb-8522-e6356be16fb1
 =======
+=======
+>>>>>>> remotes/origin/3d
     m_Reference: {fileID: -7374733323251553461, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_RightHandSnapTurnAction:
     m_UseReference: 1
@@ -185,11 +225,15 @@ MonoBehaviour:
       m_Type: 0
       m_ExpectedControlType: 
       m_Id: a7b54797-6974-4f75-81d0-42b9c15ef1e0
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Reference: {fileID: 8248158260566104461, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_TrackingStateAction:
@@ -330,11 +374,16 @@ MonoBehaviour:
     m_Reference: {fileID: -8525429354371678379, guid: c348712bda248c246b8c49b3db54643f, type: 3}
 --- !u!114 &7644517007522777146
 >>>>>>> remotes/origin/3d
+=======
+    m_Reference: {fileID: -8525429354371678379, guid: c348712bda248c246b8c49b3db54643f, type: 3}
+--- !u!114 &7644517007522777146
+>>>>>>> remotes/origin/3d
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2670085057790986871}
   m_Enabled: 1
@@ -344,6 +393,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_System: {fileID: 8318470450537181678}
 =======
+=======
+>>>>>>> remotes/origin/3d
   m_GameObject: {fileID: 3152108377958156929}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -465,12 +516,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 7644517007522777146}
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
   m_EnableFreeXMovement: 1
   m_EnableFreeYMovement: 0
   m_EnableFreeZMovement: 1
   m_UseGravity: 1
   m_GravityApplicationMode: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_ControllerTransform: {fileID: 0}
   m_EnableMoveWhileSelecting: 0
@@ -489,6 +544,8 @@ MonoBehaviour:
     m_Reference: {fileID: -3742484312079769484, guid: c348712bda248c246b8c49b3db54643f, type: 3}
 --- !u!114 &2890050244084373957
 =======
+=======
+>>>>>>> remotes/origin/3d
   m_LeftGrabMoveProvider: {fileID: 7931855923652055780}
   m_RightGrabMoveProvider: {fileID: 537365680209175307}
   m_OverrideSharedSettingsOnInit: 1
@@ -517,12 +574,16 @@ CharacterController:
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0.76072, z: 0}
 --- !u!114 &7644517007522777139
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2670085057790986871}
   m_Enabled: 1
@@ -537,6 +598,8 @@ MonoBehaviour:
   - {fileID: 2809089498261742975}
 --- !u!1 &2670085059208546952
 =======
+=======
+>>>>>>> remotes/origin/3d
   m_GameObject: {fileID: 3152108377958156929}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -547,6 +610,9 @@ MonoBehaviour:
   m_MinHeight: 0
   m_MaxHeight: Infinity
 --- !u!1 &4353273626790122461
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 GameObject:
   m_ObjectHideFlags: 0
@@ -556,12 +622,15 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 2670085059208546953}
   - component: {fileID: 7751888464098118194}
   - component: {fileID: 2670085059208546956}
   - component: {fileID: 2167067355842304735}
   - component: {fileID: 8764242965282766023}
 =======
+=======
+>>>>>>> remotes/origin/3d
   - component: {fileID: 4353273626790122462}
   - component: {fileID: 4353273626790122459}
   - component: {fileID: 4353273626790122457}
@@ -823,6 +892,9 @@ GameObject:
   - component: {fileID: 4353273626879718232}
   - component: {fileID: 537365680209175307}
   - component: {fileID: 6973608453221434643}
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
   m_Layer: 0
   m_Name: RightHand (Teleport Locomotion)
@@ -832,7 +904,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &2670085059208546953
+=======
+--- !u!4 &4353273626879718237
+>>>>>>> remotes/origin/3d
 =======
 --- !u!4 &4353273626879718237
 >>>>>>> remotes/origin/3d
@@ -842,7 +918,11 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2670085059208546952}
+=======
+  m_GameObject: {fileID: 4353273626879718236}
+>>>>>>> remotes/origin/3d
 =======
   m_GameObject: {fileID: 4353273626879718236}
 >>>>>>> remotes/origin/3d
@@ -851,6 +931,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 1436258213776670324}
   - {fileID: 3041739322282672355}
@@ -861,6 +942,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &7751888464098118194
 =======
+=======
+>>>>>>> remotes/origin/3d
   - {fileID: 759276851904169888}
   - {fileID: 3697893682556893495}
   - {fileID: 721197781441074623}
@@ -869,6 +952,9 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &8283208260757861350
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -876,7 +962,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2670085059208546952}
+=======
+  m_GameObject: {fileID: 4353273626879718236}
+>>>>>>> remotes/origin/3d
 =======
   m_GameObject: {fileID: 4353273626879718236}
 >>>>>>> remotes/origin/3d
@@ -886,15 +976,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ManipulationInteractionGroup: {fileID: 8764242965282766023}
   m_DirectInteractor: {fileID: 8569172585266015916}
   m_RayInteractor: {fileID: 2688006245593709044}
   m_TeleportInteractor: {fileID: 356180596333920873}
 =======
+=======
+>>>>>>> remotes/origin/3d
   m_ManipulationInteractionGroup: {fileID: 6973608453221434643}
   m_DirectInteractor: {fileID: 8037854869652117368}
   m_RayInteractor: {fileID: 4335369994040573984}
   m_TeleportInteractor: {fileID: 2132044477493623741}
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
   m_TeleportModeActivate: {fileID: -8061240218431744966, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_TeleportModeCancel: {fileID: 2307464322626738743, guid: c348712bda248c246b8c49b3db54643f, type: 3}
@@ -904,7 +1000,11 @@ MonoBehaviour:
   m_SmoothMotionEnabled: 0
   m_SmoothTurnEnabled: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &2670085059208546956
+=======
+--- !u!114 &4353273626879718232
+>>>>>>> remotes/origin/3d
 =======
 --- !u!114 &4353273626879718232
 >>>>>>> remotes/origin/3d
@@ -914,7 +1014,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2670085059208546952}
+=======
+  m_GameObject: {fileID: 4353273626879718236}
+>>>>>>> remotes/origin/3d
 =======
   m_GameObject: {fileID: 4353273626879718236}
 >>>>>>> remotes/origin/3d
@@ -928,7 +1032,11 @@ MonoBehaviour:
   m_EnableInputActions: 1
   m_ModelPrefab: {fileID: 3475118261464492563, guid: 9f3369e30fbd31f4bb596b1a99babe83, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ModelParent: {fileID: 2670085059208546953}
+=======
+  m_ModelParent: {fileID: 4353273626879718237}
+>>>>>>> remotes/origin/3d
 =======
   m_ModelParent: {fileID: 4353273626879718237}
 >>>>>>> remotes/origin/3d
@@ -1094,7 +1202,11 @@ MonoBehaviour:
     m_Reference: {fileID: 875253871413052681, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_ButtonPressPoint: 0.5
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &2167067355842304735
+=======
+--- !u!114 &537365680209175307
+>>>>>>> remotes/origin/3d
 =======
 --- !u!114 &537365680209175307
 >>>>>>> remotes/origin/3d
@@ -1104,7 +1216,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2670085059208546952}
+=======
+  m_GameObject: {fileID: 4353273626879718236}
+>>>>>>> remotes/origin/3d
 =======
   m_GameObject: {fileID: 4353273626879718236}
 >>>>>>> remotes/origin/3d
@@ -1114,7 +1230,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_System: {fileID: 8318470450537181678}
+=======
+  m_System: {fileID: 7644517007522777146}
+>>>>>>> remotes/origin/3d
 =======
   m_System: {fileID: 7644517007522777146}
 >>>>>>> remotes/origin/3d
@@ -1139,7 +1259,11 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: 15759602096507913, guid: c348712bda248c246b8c49b3db54643f, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &8764242965282766023
+=======
+--- !u!114 &6973608453221434643
+>>>>>>> remotes/origin/3d
 =======
 --- !u!114 &6973608453221434643
 >>>>>>> remotes/origin/3d
@@ -1149,7 +1273,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2670085059208546952}
+=======
+  m_GameObject: {fileID: 4353273626879718236}
+>>>>>>> remotes/origin/3d
 =======
   m_GameObject: {fileID: 4353273626879718236}
 >>>>>>> remotes/origin/3d
@@ -1161,15 +1289,21 @@ MonoBehaviour:
   m_InteractionManager: {fileID: 0}
   m_StartingGroupMembers:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 4086630054639108034}
   - {fileID: 8569172585266015916}
   - {fileID: 2688006245593709044}
 --- !u!1 &2670085059264935466
 =======
+=======
+>>>>>>> remotes/origin/3d
   - {fileID: 2436802658795456022}
   - {fileID: 8037854869652117368}
   - {fileID: 4335369994040573984}
 --- !u!1 &4353273628347610019
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 GameObject:
   m_ObjectHideFlags: 0
@@ -1179,10 +1313,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 2670085059264935467}
   m_Layer: 0
   m_Name: CameraOffset
 =======
+=======
+>>>>>>> remotes/origin/3d
   - component: {fileID: 4353273628347610044}
   - component: {fileID: 9090077641523478477}
   - component: {fileID: 4353273628347610040}
@@ -1190,6 +1327,9 @@ GameObject:
   - component: {fileID: 3565837262457921553}
   m_Layer: 0
   m_Name: LeftHand (Smooth locomotion)
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1197,7 +1337,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &2670085059264935467
+=======
+--- !u!4 &4353273628347610044
+>>>>>>> remotes/origin/3d
 =======
 --- !u!4 &4353273628347610044
 >>>>>>> remotes/origin/3d
@@ -1206,6 +1350,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2670085059264935466}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -1250,10 +1395,14 @@ Transform:
 =======
   m_GameObject: {fileID: 4353273628347610019}
 >>>>>>> remotes/origin/3d
+=======
+  m_GameObject: {fileID: 4353273628347610019}
+>>>>>>> remotes/origin/3d
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Children: []
   m_Father: {fileID: 2670085059264935467}
@@ -1312,6 +1461,8 @@ AudioListener:
   m_Enabled: 1
 --- !u!114 &8318470450537181675
 =======
+=======
+>>>>>>> remotes/origin/3d
   m_Children:
   - {fileID: 3131719373549577145}
   - {fileID: 4718661786854066370}
@@ -1321,12 +1472,16 @@ AudioListener:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &9090077641523478477
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 2670085059321473545}
   m_Enabled: 1
@@ -1339,6 +1494,8 @@ MonoBehaviour:
   m_IgnoreTrackingState: 0
   m_PositionInput:
 =======
+=======
+>>>>>>> remotes/origin/3d
   m_GameObject: {fileID: 4353273628347610019}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -1378,12 +1535,16 @@ MonoBehaviour:
   m_ModelSelectTransition: 
   m_ModelDeSelectTransition: 
   m_PositionAction:
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
     m_UseReference: 1
     m_Action:
       m_Name: Position
       m_Type: 0
       m_ExpectedControlType: 
+<<<<<<< HEAD
 <<<<<<< HEAD
       m_Id: 0bacfa51-7938-4a88-adae-9e8ba6c59d23
       m_Processors: 
@@ -1401,6 +1562,8 @@ MonoBehaviour:
     m_Reference: {fileID: 7862207684358717888, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_RotationInput:
 =======
+=======
+>>>>>>> remotes/origin/3d
       m_Id: 8b170a9b-132e-486d-947e-6a244d4362ea
       m_Processors: 
       m_Interactions: 
@@ -1408,12 +1571,16 @@ MonoBehaviour:
       m_Flags: 0
     m_Reference: {fileID: -2024308242397127297, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_RotationAction:
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
     m_UseReference: 1
     m_Action:
       m_Name: Rotation
       m_Type: 0
       m_ExpectedControlType: 
+<<<<<<< HEAD
 <<<<<<< HEAD
       m_Id: 5439f14e-c9da-4bd1-ad3f-7121a75c10d9
       m_Processors: 
@@ -1439,10 +1606,14 @@ MonoBehaviour:
 =======
       m_Id: 080819c2-8547-4beb-8522-e6356be16fb1
 >>>>>>> remotes/origin/3d
+=======
+      m_Id: 080819c2-8547-4beb-8522-e6356be16fb1
+>>>>>>> remotes/origin/3d
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Reference: {fileID: 0}
   m_PositionAction:
@@ -1597,6 +1768,8 @@ MonoBehaviour:
       m_ExpectedControlType: 
       m_Id: a1d07c24-ca50-422a-a23f-685d9fabf63b
 =======
+=======
+>>>>>>> remotes/origin/3d
     m_Reference: {fileID: 8248158260566104461, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_TrackingStateAction:
     m_UseReference: 1
@@ -1605,11 +1778,15 @@ MonoBehaviour:
       m_Type: 0
       m_ExpectedControlType: 
       m_Id: f3874727-df53-4207-8cd4-6248164663d7
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Reference: {fileID: -7374733323251553461, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_RightHandSnapTurnAction:
@@ -1620,6 +1797,8 @@ MonoBehaviour:
       m_ExpectedControlType: 
       m_Id: a7b54797-6974-4f75-81d0-42b9c15ef1e0
 =======
+=======
+>>>>>>> remotes/origin/3d
     m_Reference: {fileID: 684395432459739428, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_SelectAction:
     m_UseReference: 1
@@ -1628,15 +1807,21 @@ MonoBehaviour:
       m_Type: 0
       m_ExpectedControlType: 
       m_Id: 8e000d1c-13a4-4cc0-ad37-f2e125874399
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Reference: {fileID: -8525429354371678379, guid: c348712bda248c246b8c49b3db54643f, type: 3}
 --- !u!114 &8318470450537181678
 =======
+=======
+>>>>>>> remotes/origin/3d
     m_Reference: {fileID: -6131295136447488360, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_SelectActionValue:
     m_UseReference: 1
@@ -1748,12 +1933,16 @@ MonoBehaviour:
     m_Reference: {fileID: 7779212132400271959, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_ButtonPressPoint: 0.5
 --- !u!114 &7931855923652055780
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 3664077028739740501}
   m_Enabled: 1
@@ -1877,6 +2066,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_System: {fileID: 8318470450537181678}
 =======
+=======
+>>>>>>> remotes/origin/3d
   m_GameObject: {fileID: 4353273628347610019}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -1884,12 +2075,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 7644517007522777146}
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
   m_EnableFreeXMovement: 1
   m_EnableFreeYMovement: 0
   m_EnableFreeZMovement: 1
   m_UseGravity: 1
   m_GravityApplicationMode: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_LeftGrabMoveProvider: {fileID: 8607645020319787824}
   m_RightGrabMoveProvider: {fileID: 2167067355842304735}
@@ -1920,6 +2115,8 @@ CharacterController:
   m_Center: {x: 0, y: 0.76072, z: 0}
 --- !u!114 &8318470450537181671
 =======
+=======
+>>>>>>> remotes/origin/3d
   m_ControllerTransform: {fileID: 0}
   m_EnableMoveWhileSelecting: 0
   m_MoveFactor: 1
@@ -1936,12 +2133,16 @@ CharacterController:
       m_Flags: 0
     m_Reference: {fileID: -3742484312079769484, guid: c348712bda248c246b8c49b3db54643f, type: 3}
 --- !u!114 &3565837262457921553
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 3664077028739740501}
   m_Enabled: 1
@@ -1954,6 +2155,8 @@ MonoBehaviour:
   m_MaxHeight: Infinity
 --- !u!1001 &242596038871856535
 =======
+=======
+>>>>>>> remotes/origin/3d
   m_GameObject: {fileID: 4353273628347610019}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -1966,14 +2169,20 @@ MonoBehaviour:
   - {fileID: 2135182559482570381}
   - {fileID: 4583546739312696491}
 --- !u!1001 &26298021269489927
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 2670085057790986856}
 =======
+=======
+>>>>>>> remotes/origin/3d
     m_TransformParent: {fileID: 4353273626879718237}
     m_Modifications:
     - target: {fileID: 780270278251679399, guid: 27024f5809f4a4347b9cd7f26a1bdf93, type: 3}
@@ -2145,6 +2354,9 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 4353273628347610044}
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
     m_Modifications:
     - target: {fileID: 2761784063978902506, guid: c1800acf6366418a9b5f610249000331, type: 3}
@@ -2198,6 +2410,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1800acf6366418a9b5f610249000331, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &2670085058887657072 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2761784063978902503, guid: c1800acf6366418a9b5f610249000331, type: 3}
@@ -2205,18 +2418,24 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2670085058887657084}
 =======
+=======
+>>>>>>> remotes/origin/3d
 --- !u!114 &4353273627229708196 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2761784063978902503, guid: c1800acf6366418a9b5f610249000331, type: 3}
   m_PrefabInstance: {fileID: 1889889744386935875}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4353273627229708200}
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6803edce0201f574f923fd9d10e5b30a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &2670085058887657084 stripped
 GameObject:
@@ -2225,12 +2444,17 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &1024205760384241431
 =======
+=======
+>>>>>>> remotes/origin/3d
 --- !u!1 &4353273627229708200 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2761784063978902507, guid: c1800acf6366418a9b5f610249000331, type: 3}
   m_PrefabInstance: {fileID: 1889889744386935875}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &1680219570471007939
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2238,7 +2462,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 2670085058887657084}
+=======
+  m_GameObject: {fileID: 4353273627229708200}
+>>>>>>> remotes/origin/3d
 =======
   m_GameObject: {fileID: 4353273627229708200}
 >>>>>>> remotes/origin/3d
@@ -2414,6 +2642,7 @@ MonoBehaviour:
     m_Reference: {fileID: 7779212132400271959, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_ButtonPressPoint: 0.5
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &2670085058887657085 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2761784063978902506, guid: c1800acf6366418a9b5f610249000331, type: 3}
@@ -2421,17 +2650,23 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1008506938300128283
 =======
+=======
+>>>>>>> remotes/origin/3d
 --- !u!4 &4353273627229708201 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2761784063978902506, guid: c1800acf6366418a9b5f610249000331, type: 3}
   m_PrefabInstance: {fileID: 1889889744386935875}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2423510005163306270
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_TransformParent: {fileID: 2670085057790986856}
     m_Modifications:
@@ -2510,6 +2745,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 4353273628347610044}
 >>>>>>> remotes/origin/3d
+=======
+    m_TransformParent: {fileID: 4353273628347610044}
+>>>>>>> remotes/origin/3d
     m_Modifications:
     - target: {fileID: 780270278251679399, guid: 27024f5809f4a4347b9cd7f26a1bdf93, type: 3}
       propertyPath: m_RootOrder
@@ -2562,7 +2800,11 @@ PrefabInstance:
     - target: {fileID: 8259524632637961923, guid: 27024f5809f4a4347b9cd7f26a1bdf93, type: 3}
       propertyPath: m_LocalPosition.x
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 0.005
+=======
+      value: -0.005
+>>>>>>> remotes/origin/3d
 =======
       value: -0.005
 >>>>>>> remotes/origin/3d
@@ -2577,6 +2819,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8259524632637961923, guid: 27024f5809f4a4347b9cd7f26a1bdf93, type: 3}
       propertyPath: m_LocalRotation.y
+<<<<<<< HEAD
 <<<<<<< HEAD
       value: -0.08707283
       objectReference: {fileID: 0}
@@ -2600,6 +2843,8 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2417358720014700305, guid: 27024f5809f4a4347b9cd7f26a1bdf93, type: 3}
   m_PrefabInstance: {fileID: 1817922162784841939}
 =======
+=======
+>>>>>>> remotes/origin/3d
       value: 0.08707283
       objectReference: {fileID: 0}
     - target: {fileID: 8259524632637961923, guid: 27024f5809f4a4347b9cd7f26a1bdf93, type: 3}
@@ -2616,6 +2861,9 @@ MonoBehaviour:
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2417358720014700305, guid: 27024f5809f4a4347b9cd7f26a1bdf93, type: 3}
   m_PrefabInstance: {fileID: 2423510005163306270}
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -2625,21 +2873,31 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &2495763459779776910
 =======
+=======
+>>>>>>> remotes/origin/3d
 --- !u!4 &3131719373549577145 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 780270278251679399, guid: 27024f5809f4a4347b9cd7f26a1bdf93, type: 3}
   m_PrefabInstance: {fileID: 2423510005163306270}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4306946332403902554
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 2670085059208546953}
+=======
+    m_TransformParent: {fileID: 4353273626879718237}
+>>>>>>> remotes/origin/3d
 =======
     m_TransformParent: {fileID: 4353273626879718237}
 >>>>>>> remotes/origin/3d
@@ -2695,6 +2953,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1800acf6366418a9b5f610249000331, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &356180596333920868 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2761784063978902506, guid: c1800acf6366418a9b5f610249000331, type: 3}
@@ -2707,6 +2966,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &7418782698317080952
 =======
+=======
+>>>>>>> remotes/origin/3d
 --- !u!4 &2132044477493623728 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2761784063978902506, guid: c1800acf6366418a9b5f610249000331, type: 3}
@@ -2718,6 +2979,9 @@ GameObject:
   m_PrefabInstance: {fileID: 4306946332403902554}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &9192740693981335724
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2725,7 +2989,11 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 356180596333920869}
+=======
+  m_GameObject: {fileID: 2132044477493623729}
+>>>>>>> remotes/origin/3d
 =======
   m_GameObject: {fileID: 2132044477493623729}
 >>>>>>> remotes/origin/3d
@@ -2901,6 +3169,7 @@ MonoBehaviour:
     m_Reference: {fileID: 875253871413052681, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_ButtonPressPoint: 0.5
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &356180596333920873 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2761784063978902503, guid: c1800acf6366418a9b5f610249000331, type: 3}
@@ -2908,12 +3177,17 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 356180596333920869}
 =======
+=======
+>>>>>>> remotes/origin/3d
 --- !u!114 &2132044477493623741 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 2761784063978902503, guid: c1800acf6366418a9b5f610249000331, type: 3}
   m_PrefabInstance: {fileID: 4306946332403902554}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2132044477493623729}
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -2921,7 +3195,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &4090934187833742538
+=======
+--- !u!1001 &4932347091371078555
+>>>>>>> remotes/origin/3d
 =======
 --- !u!1001 &4932347091371078555
 >>>>>>> remotes/origin/3d
@@ -2929,6 +3207,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_TransformParent: {fileID: 2670085057790986856}
     m_Modifications:
@@ -3185,6 +3464,9 @@ PrefabInstance:
 =======
     m_TransformParent: {fileID: 4353273626868944895}
 >>>>>>> remotes/origin/3d
+=======
+    m_TransformParent: {fileID: 4353273626868944895}
+>>>>>>> remotes/origin/3d
     m_Modifications:
     - target: {fileID: 3055433562365713971, guid: b84cd05e1160fe34cab2585022c8cd99, type: 3}
       propertyPath: m_Name
@@ -3241,6 +3523,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b84cd05e1160fe34cab2585022c8cd99, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &4283709296369954817 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7378618157167557198, guid: b84cd05e1160fe34cab2585022c8cd99, type: 3}
@@ -3248,20 +3531,28 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9210825392963071470
 =======
+=======
+>>>>>>> remotes/origin/3d
 --- !u!4 &2455914882284030421 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 7378618157167557198, guid: b84cd05e1160fe34cab2585022c8cd99, type: 3}
   m_PrefabInstance: {fileID: 4932347091371078555}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6344866067188635524
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_TransformParent: {fileID: 2670085059208546953}
 =======
+=======
+>>>>>>> remotes/origin/3d
     m_TransformParent: {fileID: 4353273628347610044}
     m_Modifications:
     - target: {fileID: 1787346994484839025, guid: ad818c36731146e994540a1896ad8f24, type: 3}
@@ -3409,6 +3700,9 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 4353273626879718237}
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
     m_Modifications:
     - target: {fileID: 6189354538098044173, guid: 2fd3e07afe5b461490fb8e314976b1b0, type: 3}
@@ -3462,6 +3756,7 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fd3e07afe5b461490fb8e314976b1b0, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &3041739322282672355 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6189354538098044173, guid: 2fd3e07afe5b461490fb8e314976b1b0, type: 3}
@@ -3472,6 +3767,8 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 664489801923019586, guid: 2fd3e07afe5b461490fb8e314976b1b0, type: 3}
   m_PrefabInstance: {fileID: 9210825392963071470}
 =======
+=======
+>>>>>>> remotes/origin/3d
 --- !u!4 &3697893682556893495 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6189354538098044173, guid: 2fd3e07afe5b461490fb8e314976b1b0, type: 3}
@@ -3481,6 +3778,9 @@ Transform:
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 664489801923019586, guid: 2fd3e07afe5b461490fb8e314976b1b0, type: 3}
   m_PrefabInstance: {fileID: 7400697999359202362}
+<<<<<<< HEAD
+>>>>>>> remotes/origin/3d
+=======
 >>>>>>> remotes/origin/3d
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
